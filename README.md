@@ -52,5 +52,5 @@ O objetivo principal é colocar em prática umas das principais ferramentas da O
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/bootcamp-java-developer.git
+git clone  https://github.com/hyppoliteaurelus/Abstraindo-bootcamp-desafio-DIO.git
 cd bootcamp-java-developer
